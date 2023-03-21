@@ -5,6 +5,7 @@ from styles import branco, preto
 window = pg.display.set_mode((1000, 700))
 
 pg.font.init()
+
 font1 = pg.font.SysFont('Courier New', 70)
 font2 = pg.font.SysFont('Courier New', 30)
 
@@ -24,7 +25,7 @@ palavra_escolhida = ' '
 palavra_camuflada = ' '
 
 end_game = True
-
+ 
 chance = 0
 
 letra = ' '

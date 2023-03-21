@@ -28,3 +28,7 @@ verde4 = ( 64,110,  2)
 #Cores base
 preto = (0, 0, 0)
 branco = (255, 255, 255)
+
+  
+
+
