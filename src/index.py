@@ -1,12 +1,13 @@
 import pygame as pg
 import random
-from styles import branco, preto
 
 window = pg.display.set_mode((1000, 700))
 
 pg.font.init()
 clock = pg.time.Clock()
 
+preto = (0, 0, 0)
+branco = (255, 255, 255)
 font1 = pg.font.SysFont('Courier New', 70)
 font2 = pg.font.SysFont('Courier New', 30)
 
